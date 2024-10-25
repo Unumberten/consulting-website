@@ -2,8 +2,8 @@ import HomeClient from "./components/HomeClient";
 import PageStyler from "./components/PageStyler";
 
 export const metadata = {
-  title: "Homepage | Anasayfa",
-  description: "Homepage | Anasayfa",
+  title: "Homepage | MilleniaHub",
+  description: "Homepage | Innovate. Connect. Progress.",
 };
 
 export default function Home() {
